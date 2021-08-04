@@ -1,6 +1,8 @@
 # Freecash.comBot.js
 This is a very basic private project I am working on to learn more 'JavaScript' and integrations with my 'Raspberry PI' , this is a simple program that will scrape user statistics / profile information and display this information on a I2C 16x2 LED display via 'node JS'.
 
+![Alt text](https://github.com/HDzzzz/Freecash.comBot.js/blob/main/FSC.JPEG?raw=true "Example")
+
 ## Features
 ```
 * Log user balance (coins value & USD value)
