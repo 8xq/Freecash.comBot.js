@@ -2,8 +2,6 @@
 //                             https://freecash.com                             \\
 //                              made by nullcheats                               \\
 //================================================================================\\
-
-
 const chalk = require('chalk');
 const Request = require('./Reqs');
 const I2C = require('./DisplayOutput');
