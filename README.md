@@ -18,7 +18,7 @@ This is a very basic private project I am working on to learn more 'JavaScript' 
 ```
 * Log last offer completed (name + time + amount)
 * Log when daily bonus will be available next
-* Show "Alert I2C message' when offer just credited
+* Show "Alert I2C message' when offer just credited (WS)
 * If approved by staff add button to "click and claim" daily bonus
 ```
 
